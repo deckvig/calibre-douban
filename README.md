@@ -1,5 +1,5 @@
 # calibre-douban
-calibre douban metadata plugin use with simple-boot-douban-api
+calibre douban metadata plugin use with [simple-boot-douban-api](https://github.com/fugary/simple-boot-douban-api)
 
 usage:
 
